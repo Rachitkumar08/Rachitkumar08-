@@ -15,3 +15,4 @@
 
 ## 📫 Connect with me
 - GitHub: https://github.com/Rachitkumar08
+- linkedin: https://www.linkedin.com/in/rachit-kumar-65045037a?utm_source=share_via&utm_content=profile&utm_medium=member_android
